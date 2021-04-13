@@ -2,8 +2,6 @@ package dao;
 
 import java.util.List;
 
-import entidade.CriarProduto;
-
 public class SorveteriaGeralDAOImpl implements SorveteriaGeralDAO {
 	
 	@Override
